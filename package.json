@@ -19,6 +19,7 @@
     "typescript": "^5.1.6"
   },
   "scripts": {
+    "build": "react-scripts build",
     "start": "react-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
